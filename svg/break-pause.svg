@@ -21,21 +21,21 @@
       <path
          d="m 36,27 c -2,-3 -2,-6 0,-9"
          fill="none"
-         stroke="#7cf4ff"
+         stroke="#000000"
          stroke-width="3"
          stroke-linecap="round"
          id="path11" />
       <path
          d="m 45,27 c -2,-3 -2,-6 0,-9"
          fill="none"
-         stroke="#7cf4ff"
+         stroke="#000000"
          stroke-width="3"
          stroke-linecap="round"
          id="path12" />
       <path
          d="m 26,31 h 30 v 9.981669 M 46.868555,65.587725 C 44.880463,66.550586 42.826676,67 41,67 33,67 26,60 26,49 V 31"
          fill="none"
-         stroke="#7cf4ff"
+         stroke="#000000"
          stroke-width="3.2"
          stroke-linejoin="round"
          stroke-linecap="round"
@@ -43,7 +43,7 @@
       <path
          d="m 26,38 h -8 c -5,0 -6,3 -6,7 0,4 1,7 6,7 h 8"
          fill="none"
-         stroke="#7cf4ff"
+         stroke="#000000"
          stroke-width="3.2"
          stroke-linecap="round"
          stroke-linejoin="round"
@@ -53,7 +53,7 @@
          cy="58"
          r="14.5"
          fill="none"
-         stroke="#7cf4ff"
+         stroke="#000000"
          stroke-width="2.25"
          id="circle14" />
       <rect
@@ -62,7 +62,7 @@
          width="2.5"
          height="16"
          rx="1.4"
-         fill="#7cf4ff"
+         fill="#000000"
          id="rect14" />
       <rect
          x="65"
@@ -70,7 +70,7 @@
          width="2.5"
          height="16"
          rx="1.4"
-         fill="#7cf4ff"
+         fill="#000000"
          id="rect15" />
     </g>
   </g>
