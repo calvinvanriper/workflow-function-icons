@@ -10,10 +10,10 @@ Inspired by classic keyboard function keys, developer workflows, retro computing
 
 ## Included Icons
 
-- Print Screen
 - Scroll Lock
-- Pause/Break
+- Print Screen
 - Break/Pause
+- Pause/Break
 
 ---
 
