@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Monitor frame -->
+  <path fill="#7CF4FF" fill-rule="evenodd" d="
+    M18 20
+    H82
+    V70
+    H18
+    Z
+
+    M22 24
+    V62
+    H78
+    V24
+    Z
+  "/>
+
+  <!-- Monitor bottom bar -->
+  <path fill="#7CF4FF" d="M18 64 H82 V70 H18 Z"/>
+
+  <!-- Monitor stand -->
+  <path fill="#7CF4FF" d="M44 70 H56 V78 H44 Z"/>
+
+  <!-- Monitor base -->
+  <path fill="#7CF4FF" d="M34 78 H66 V84 H34 Z"/>
+
+  <!-- Printer outline -->
+  <g
+    fill="none"
+    stroke="#7CF4FF"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round">
+
+    <!-- Printer body -->
+    <rect x="34" y="38" width="32" height="16" rx="2"/>
+
+    <!-- Top paper -->
+    <rect x="39" y="28" width="22" height="10"/>
+
+    <!-- Bottom paper/output -->
+    <rect x="39" y="50" width="22" height="9"/>
+
+    <!-- Small printer detail -->
+    <circle cx="39" cy="44" r="1.5"/>
+
+  </g>
+
+</svg>
